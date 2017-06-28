@@ -1,0 +1,1 @@
+## TheHashHub CodeCamp 2017 log
