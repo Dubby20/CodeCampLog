@@ -29,13 +29,13 @@
 * learnt how to link jquery google cdn.
 * Below is the html-javascript form data:
 
-*  <!DOCTYPE html>
-+ <html>
-+ <head>
- + <meta charset="utf-8">
-+ <title>SyncFiddle</title>
-+  <style>
-+   body {
+ '''<!DOCTYPE html>
+ <html>
+ <head>
+ <meta charset="utf-8">
+ <title>SyncFiddle</title>
+ <style>
+  body {
       font-family: "Helvetica Neue", Helvetica, sans-serif;
     }
   </style>
@@ -98,4 +98,5 @@ document.getElementById('date').innerHTML = dateFunction();
   // Output data to html
   </script>
 </body>
-</html> 
+</html>
+'''
