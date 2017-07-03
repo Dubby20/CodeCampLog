@@ -31,11 +31,11 @@
 
 *  <!DOCTYPE html>
 + <html>
-<head>
-  <meta charset="utf-8">
-  <title>SyncFiddle</title>
-  <style>
-    body {
++ <head>
+ + <meta charset="utf-8">
++ <title>SyncFiddle</title>
++  <style>
++   body {
       font-family: "Helvetica Neue", Helvetica, sans-serif;
     }
   </style>
