@@ -28,3 +28,6 @@
 * How to attach .addEventlistener to a specific function
 * learnt how to link jquery google cdn.
 
+## Tuesday July 4th, 2017
+* Completed some of the Basic Javascript Challenges on FreeCodeCmp
+* Learnt how to concatenate strings with the plus and equals operator, to find length of a string, to nest one array within another array, manipulate arrays with push, pop, shift and unshift, to pass values to functions with arguments, Global scope and its functions.
