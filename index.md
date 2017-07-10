@@ -42,4 +42,21 @@
 * How to find the Even number, factorial, and square of a function
 * How to capitalize the first character in a function.
 * How to replace string in a character using .replace or .split and .join
-* Presented our project ideas to the organizers of Abuja CodeCamp
+* Presented my project ideas to the organizers of Abuja CodeCamp
+
+## Friday July 7th, 2017
+* Saw some Udemy Videos on how to write a function
+* Was instructed to write a function (name) on Sync Fiddle so that when its console.log it outputs Hello (name)
+*  Completed more Basic Javascript Challenges on FreeCodeCamp
+* Solved some exercises on repl.it
+
+## Saturday July 8th, 2017
+* Attended a React Meet-up and was thought on how to use React Native in creating Android Apps
+* Solved some exercises on repl.it
+
+## Sunday July 9th, 2017
+* Solved more exercises on repl.it
+
+## Monday July 10th, 2017
+* Learnt how to properly use the for in loop to countCharacter, countNumber of keys, to keep array etc.
+* Continued with my assignment on repl.it
