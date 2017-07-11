@@ -60,3 +60,11 @@
 ## Monday July 10th, 2017
 * Learnt how to properly use the for in loop to countCharacter, countNumber of keys, to keep array etc.
 * Continued with my assignment on repl.it
+
+## Tuesday July 11th, 2017
+* Learnt about Node.js which is an asynchronous event driven javaScript designed to build scalable network applications
+* How to use module.export to export variables especially objects from a given file to other files
+* How to use [require] as a function to point it to a path where files are imported from.
+* How to name an object if the key and value has the same name by using comma at the end of the given name
+* Different methods of using a function
+* Continued with my assignment on repl.it
