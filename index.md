@@ -68,3 +68,10 @@
 * How to name an object if the key and value has the same name by using comma at the end of the given name
 * Different methods of using a function
 * Continued with my assignment on repl.it
+
+## Wednesday July 12th, 2017
+* Built a To-do App with the team in class
+* Learnt how to use "clear fix" to automatically clear a child element
+* How to use "offset on bootstrap to move columns to the right or center
+* How to use cursor pointer style
+* Also learnt how to make an item hidden so that when you hover it becomes visible.
