@@ -75,3 +75,21 @@
 * How to use "offset on bootstrap to move columns to the right or center
 * How to use cursor pointer style
 * Also learnt how to make an item hidden so that when you hover it becomes visible.
+
+## Thursday July 13th, 2017
+* Added some features to the Todo App such as:
+* `.append()` to insert the content of TodoItems to its specified parameter
+* `.empty()` to remove elements from the DOM 
+* Using Back tick (``) known as template literal instead of double or single quotes to write multi-line of strings.
+* `.hover()` to bind one or two handlers to the matched elements when the mouse pointer hovers the elements 
+* `.toggle()` to display or hide elements (i.e Todo items) when the mouse pointer hovers on it
+* `.map()` to call a defined callback function on each element of an array returning an array that contains result.
+
+
+## Friday July 14th, 2017
+* Added more functionality to the Todo App 
+* `.filter()` returns the element of an array that meet the condition specified in a callback function(i.e filters All/Completed/Active Todo items )
+* How to use State management to take control of the Todo App
+
+## Saturday July 15th, 2017
+* Learning how to code on Codecademy
