@@ -93,3 +93,24 @@
 
 ## Saturday July 15th, 2017
 * Learning how to code on Codecademy
+
+## Sunday July 16th, 2017
+* Learning how to code on Codecademy
+* Solved more exercises on repl.it
+
+## Monday July 17th, 2017
+* `express()` is used to export express module
+* path : This is the file path that is being sent.
+* `app.listen` Binds and listens for connections on the specified host and port.
+* `app.use` Mounts the specified middleware function or functions at the specified path: the middleware function is executed when the base of the requested path matches path. 
+* `app.get()` Routes **HTTP GET requests** to the specified path with the specified callback functions.
+* `res` object represents the **HTTP response** that an Express app sends when it gets an HTTP request.
+* `req` object represents the **HTTP request**.
+* `express.static()`Creates a new middleware function to serve files from within a given root directory. The file to serve will be determined by combining req.url with the provided root directory.
+* Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle. The next middleware function is commonly denoted by a variable named next.
+* Middleware functions can perform the following tasks:
+Execute any code.
+Make changes to the request and the response objects.
+End the request-response cycle.
+Call the next middleware function in the stack.
+If the current middleware function does not end the request-response cycle, it must call next() to pass control to the next middleware function. Otherwise, the request will be left hanging.
