@@ -99,6 +99,7 @@
 * Solved more exercises on repl.it
 
 ## Monday July 17th, 2017
+* Learning how the web server works with Node.js
 * `express()` is used to export express module
 * path : This is the file path that is being sent.
 * `app.listen` Binds and listens for connections on the specified host and port.
@@ -114,3 +115,10 @@ Make changes to the request and the response objects.
 End the request-response cycle.
 Call the next middleware function in the stack.
 If the current middleware function does not end the request-response cycle, it must call next() to pass control to the next middleware function. Otherwise, the request will be left hanging.
+
+## Tuesday July 18th, 2017
+* `res.json` sends a JSON response to the parameter that is converted to a JSON string
+* `app.post` routes **HTTP POST requests** to the specified path with the specified callback functions
+* To handle HTTP POST request in Express.js, we installed a middleware module called body-parser.
+* The `bodyParser.json` which parses or extracts the text or body of an incoming request as JSON and exposes the resulting object on req.body
+* `bodyParser.urlencoded()`: Parses the body as URL encoded data (which is how browsers tend to send form data from regular forms set to POST) and exposes the resulting object (containing the keys and values) on req.body. This parser accepts only UTF-8 encoding of the body.
