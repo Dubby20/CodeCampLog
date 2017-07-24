@@ -122,3 +122,18 @@ If the current middleware function does not end the request-response cycle, it m
 * To handle HTTP POST request in Express.js, we installed a middleware module called body-parser.
 * The `bodyParser.json` which parses or extracts the text or body of an incoming request as JSON and exposes the resulting object on req.body
 * `bodyParser.urlencoded()`: Parses the body as URL encoded data (which is how browsers tend to send form data from regular forms set to POST) and exposes the resulting object (containing the keys and values) on req.body. This parser accepts only UTF-8 encoding of the body.
+
+## Wednesday July 19th, 2017
+* Solved some exercises on the video given to us
+
+## Thursday July 20th, 2017
+* Practised touch typing
+
+## Friday July 21th, 2017
+* Practised touch typing
+
+## Saturday July 22th, 2017
+* Practised touch typing
+
+## Sunday July 23th, 2017
+* Practised touch typing 
