@@ -5,4 +5,4 @@
 
 [The Hash Hub]: http://thehashhub.com/
 
-> Coding is the New Literacy
+> "Coding is the New Literacy"

@@ -139,7 +139,7 @@
 * Practised touch typing 
 
 ## Monday July 24th, 2017
-* Started a new project called KodedLand[https://github.com/Dubby20/kodedLand] which is a forum app where users can create a profile, add posts, comment and like other users post.
+* Started a new project called [KodedLand]: https://github.com/Dubby20/kodedLand which is a forum app where users can create a profile, add posts, comment and like other users post.
 * Designed the UI using v4-alpha bootstrap and font awesome framework
 
 ## Tuesday July 25th, 2017
