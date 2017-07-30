@@ -63,16 +63,16 @@
 
 ## Tuesday July 11th, 2017
 * Learnt about Node.js which is an asynchronous event driven javaScript designed to build scalable network applications
-* How to use module.export to export variables especially objects from a given file to other files
-* How to use [require] as a function to point it to a path where files are imported from.
+* How to use `module.export` to export variables especially objects from a given file to other files
+* How to use `require` as a function to point it to a path where files are imported from.
 * How to name an object if the key and value has the same name by using comma at the end of the given name
 * Different methods of using a function
 * Continued with my assignment on repl.it
 
 ## Wednesday July 12th, 2017
 * Built a To-do App with the team in class
-* Learnt how to use "clear fix" to automatically clear a child element
-* How to use "offset on bootstrap to move columns to the right or center
+* Learnt how to use `clear fix` to automatically clear a child element
+* How to use `offset` on bootstrap to move columns to the right or center
 * How to use cursor pointer style
 * Also learnt how to make an item hidden so that when you hover it becomes visible.
 
@@ -110,11 +110,11 @@
 * `express.static()`Creates a new middleware function to serve files from within a given root directory. The file to serve will be determined by combining req.url with the provided root directory.
 * Middleware functions are functions that have access to the request object (req), the response object (res), and the next middleware function in the application’s request-response cycle. The next middleware function is commonly denoted by a variable named next.
 * Middleware functions can perform the following tasks:
-Execute any code.
-Make changes to the request and the response objects.
-End the request-response cycle.
-Call the next middleware function in the stack.
-If the current middleware function does not end the request-response cycle, it must call next() to pass control to the next middleware function. Otherwise, the request will be left hanging.
+    * Execute any code.
+    * Make changes to the request and the response objects.
+    * End the request-response cycle.
+    * Call the next middleware function in the stack.
+    * If the current middleware function does not end the request-response cycle, it must call next() to pass control to the next middleware function. Otherwise, the request will be left hanging.
 
 ## Tuesday July 18th, 2017
 * `res.json` sends a JSON response to the parameter that is converted to a JSON string
@@ -137,3 +137,37 @@ If the current middleware function does not end the request-response cycle, it m
 
 ## Sunday July 23th, 2017
 * Practised touch typing 
+
+## Monday July 24th, 2017
+* Started a new project called [KodedLand] (https://github.com/Dubby20/kodedLand) which is a forum app where users can create a profile, add posts, comment and like other users post.
+* Designed the UI using v4-alpha bootstrap and font awesome framework
+
+## Tuesday July 25th, 2017
+* Continued with our forum app project
+* The app starts on express server and listens on port 4000 for connections
+* Installed `ejs` template to render view engine to be dynamic. `ejs` lets a user generate HTML markup with plain Javascript
+
+## Wednesday July 26th, 2017
+* Added some features to our forum app
+* Used `ejs` to create an "if" statement to show profile data when the user is logged In or show login form when the user is logged out
+* Created a folder (views) to render the "addPost" view engine
+* Installed and connected MongoDB/Mongoose: a schema-based solution to model application data which can be saved and retrieved
+    * Created a file name postSchema inside the model folder
+    * Defined the user's post schema in a file(postSchema) which we exported to the router using `module.exports`
+* Query mongoose using `mongoose.Promise` property to execute queries from the mongoose database.
+* Queries are then returned as promises which have a `.then()` function. For a fully-fledged promise, we used the `.exec()` function
+* Also `callback` or `async` can be passed to a query in Mongoose and returned as `.find()` and `.save()` respectively.
+* Used `.trim()` method to remove white space from both end of a string in the user's title and content
+* Used `.replace()` method to match and replace `(/[,\s+]/)`(regular expression) in the user's body tags
+* Installed `moment.js` to parse, validate, manipulate and display user's dates and times.
+
+## Thursday July 27th, 2017
+Did a recap of the forum app with the team in class
+
+## Friday July 28th, 2017
+
+
+## Saturday July 29th, 2017
+
+
+## Sunday July 30th, 2017
