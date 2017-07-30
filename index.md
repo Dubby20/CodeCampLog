@@ -170,15 +170,15 @@ Did a recap of the forum app with the team in class
 
 ## Saturday July 29th, 2017
 * Methods of Selecting Elements:
-    **document.getElementById**: It takes a string argument and returns the one element with a matching Id
-    **document.getElementsByClassName**: It takes a string argument and returns a list of elements that have a matching class
-    **document.getElementsByTagName**: It returns a list of all elements of a given tag name like `<li>` or `<h1>`
-    **document.querySelector**: It returns  the first element that matches a given CSS-style selector
-    **document.querySelectorAll**: It returns a list of elements that matches a given CSS-style selector
+    **document.getElementById: It takes a string argument and returns the one element with a matching Id
+    **document.getElementsByClassName: It takes a string argument and returns a list of elements that have a matching class
+    **document.getElementsByTagName: It returns a list of all elements of a given tag name like `<li>` or `<h1>`
+    **document.querySelector: It returns  the first element that matches a given CSS-style selector
+    **document.querySelectorAll: It returns a list of elements that matches a given CSS-style selector
 
 ## Sunday July 30th, 2017
 * DOM Manipulation of text or html using: 
-    * `.classList`: Its a read-only property which returns all the class attributes in a given element. Methods includes: `add()`, `remove()`, `toggle()`
+    * `.classList`: Its a read-only property which returns all the class attributes in a given element. Methods includes: `.add()`, `.remove()`, `.toggle()`
     * `textContent`: Returns a string of all text contained in a given element
     * `innerHTML`: Returns a string of all the HTML contained in a given element.
 * How to use `getAttributes()` and `setAttributes()` to read and write attributes like `src` or `href`. `setAttributes()` takes two arguments, the first is the name of the attributes e.g `href` while the second is what you want to change it to.
