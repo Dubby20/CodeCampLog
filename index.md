@@ -127,13 +127,13 @@
 * Solved some exercises on the video given to us
 
 ## Thursday July 20th, 2017
-* Practised touch typing
+* Practised touch typing: **f & j**, **d & k**
 
 ## Friday July 21th, 2017
-* Practised touch typing
+* Practised touch typing: **fjdk**
 
 ## Saturday July 22th, 2017
-* Practised touch typing
+* Practised touch typing: **s & l**
 
 ## Sunday July 23th, 2017
 * Practised touch typing 
@@ -165,16 +165,16 @@
 Did a recap of the forum app with the team in class
 
 ## Friday July 28th, 2017
-* Started working on my Portfolio website
+* Started working on a new Portfolio website
 
 
 ## Saturday July 29th, 2017
 * Methods of Selecting Elements:
-    * document.getElementById: It takes a string argument and returns the one element with a matching Id
-    * document.getElementsByClassName: It takes a string argument and returns a list of elements that have a matching class
-    * document.getElementsByTagName: It returns a list of all elements of a given tag name like `<li>` or `<h1>`
-    * document.querySelector: It returns  the first element that matches a given CSS-style selector
-    * document.querySelectorAll: It returns a list of elements that matches a given CSS-style selector
+    * **document.getElementById**: It takes a string argument and returns the one element with a matching Id
+    * **document.getElementsByClassName**: It takes a string argument and returns a list of elements that have a matching class
+    * **document.getElementsByTagName**: It returns a list of all elements of a given tag name like `<li>` or `<h1>`
+    * **document.querySelector**: It returns  the first element that matches a given CSS-style selector
+    * **document.querySelectorAll**: It returns a list of elements that matches a given CSS-style selector
 
 ## Sunday July 30th, 2017
 * DOM Manipulation of text or html using: 
