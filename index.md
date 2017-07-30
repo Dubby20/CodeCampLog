@@ -24,8 +24,8 @@
 
 ## Monday July 3rd, 2017
 * Used html to create form using javascript to get the values of the form with input type :name and birthday
-* How to use e.preventDefault method to stop the default form action
-* How to attach .addEventlistener to a specific function
+* How to use `e.preventDefault` method to stop the default form action
+* How to attach `.addEventlistener` to a specific function
 * learnt how to link jquery google cdn.
 
 ## Tuesday July 4th, 2017
@@ -41,7 +41,7 @@
 * Learnt how to write and use a function.
 * How to find the Even number, factorial, and square of a function
 * How to capitalize the first character in a function.
-* How to replace string in a character using .replace or .split and .join
+* How to replace string in a character using `.replace` or `.split` and `.join`
 * Presented my project ideas to the organizers of Abuja CodeCamp
 
 ## Friday July 7th, 2017
@@ -139,7 +139,7 @@
 * Practised touch typing 
 
 ## Monday July 24th, 2017
-* Started a new project called [KodedLand] (https://github.com/Dubby20/kodedLand) which is a forum app where users can create a profile, add posts, comment and like other users post.
+* Started a new project called [KodedLand] https://github.com/Dubby20/kodedLand which is a forum app where users can create a profile, add posts, comment and like other users post.
 * Designed the UI using v4-alpha bootstrap and font awesome framework
 
 ## Tuesday July 25th, 2017
@@ -165,9 +165,20 @@
 Did a recap of the forum app with the team in class
 
 ## Friday July 28th, 2017
+* Started working on my Portfolio website
 
 
 ## Saturday July 29th, 2017
-
+* Methods of Selecting Elements:
+    **document.getElementById**: It takes a string argument and returns the one element with a matching Id
+    **document.getElementsByClassName**: It takes a string argument and returns a list of elements that have a matching class
+    **document.getElementsByTagName**: It returns a list of all elements of a given tag name like `<li>` or `<h1>`
+    **document.querySelector**: It returns  the first element that matches a given CSS-style selector
+    **document.querySelectorAll**: It returns a list of elements that matches a given CSS-style selector
 
 ## Sunday July 30th, 2017
+* DOM Manipulation of text or html using: 
+    * `.classList`: Its a read-only property which returns all the class attributes in a given element. Methods includes: `add()`, `remove()`, `toggle()`
+    * `textContent`: Returns a string of all text contained in a given element
+    * `innerHTML`: Returns a string of all the HTML contained in a given element.
+* How to use `getAttributes()` and `setAttributes()` to read and write attributes like `src` or `href`. `setAttributes()` takes two arguments, the first is the name of the attributes e.g `href` while the second is what you want to change it to.
