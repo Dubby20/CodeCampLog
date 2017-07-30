@@ -139,7 +139,7 @@
 * Practised touch typing 
 
 ## Monday July 24th, 2017
-* Started a new project called [KodedLand] https://github.com/Dubby20/kodedLand which is a forum app where users can create a profile, add posts, comment and like other users post.
+* Started a new project called KodedLand: https://github.com/Dubby20/kodedLand which is a forum app where users can create a profile, add posts, comment and like other users post.
 * Designed the UI using v4-alpha bootstrap and font awesome framework
 
 ## Tuesday July 25th, 2017
@@ -170,11 +170,11 @@ Did a recap of the forum app with the team in class
 
 ## Saturday July 29th, 2017
 * Methods of Selecting Elements:
-    **document.getElementById: It takes a string argument and returns the one element with a matching Id
-    **document.getElementsByClassName: It takes a string argument and returns a list of elements that have a matching class
-    **document.getElementsByTagName: It returns a list of all elements of a given tag name like `<li>` or `<h1>`
-    **document.querySelector: It returns  the first element that matches a given CSS-style selector
-    **document.querySelectorAll: It returns a list of elements that matches a given CSS-style selector
+    * document.getElementById: It takes a string argument and returns the one element with a matching Id
+    * document.getElementsByClassName: It takes a string argument and returns a list of elements that have a matching class
+    * document.getElementsByTagName: It returns a list of all elements of a given tag name like `<li>` or `<h1>`
+    * document.querySelector: It returns  the first element that matches a given CSS-style selector
+    * document.querySelectorAll: It returns a list of elements that matches a given CSS-style selector
 
 ## Sunday July 30th, 2017
 * DOM Manipulation of text or html using: 
