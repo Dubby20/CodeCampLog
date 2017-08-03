@@ -154,6 +154,7 @@
 * Installed and connected MongoDB/Mongoose: a schema-based solution to model application data which can be saved and retrieved
     * Created a file name postSchema inside the model folder
     * Defined the user's post schema in a file(postSchema) which we exported to the router using `module.exports`
+* Mongoose is a mongoDB object modelling tool designed to work in an asyncchronous environment.
 * Query mongoose using `mongoose.Promise` property to execute queries from the mongoose database.
 * Queries are then returned as promises which have a `.then()` function. For a fully-fledged promise, we used the `.exec()` function
 * Also `callback` or `async` can be passed to a query in Mongoose and returned as `.find()` and `.save()` respectively.
@@ -182,3 +183,39 @@ Did a recap of the forum app with the team in class
     * `textContent`: Returns a string of all text contained in a given element
     * `innerHTML`: Returns a string of all the HTML contained in a given element.
 * How to use `getAttributes()` and `setAttributes()` to read and write attributes like `src` or `href`. `setAttributes()` takes two arguments, the first is the name of the attributes e.g `href` while the second is what you want to change it to.
+
+## Monday July 31th, 2017
+* Watched a tutorial video on Bootstrap 4 alpha 6 
+    * Created a default template using the Grid options: xs, sm, md, lg device sizes
+        * How to a Bootrap typography -  `blockquote` and `blockquote-reverse`
+        * How to use bootstrap heading by giving it a class `.h1` through `.h6`
+        * Also learnt how to use jumbotron
+
+## Tuesday August 1st, 2017
+* Added some functionality to my [kodedLand](https://github.com/Dubby20/kodedLand) app. To update post, to delete post and registration form for users
+* Documents can be retrieved through `find`, `findOne` and `findById` and these can be executed on Models
+    * `.find` can be used to retrieve only certain fields
+    * `.findOne` only receives a single document as second parameter
+    * `.findById` same as `.findOne`, but receives a value to search a document by their `_id` key
+    * `.count` counts the number of document matching `conditions`
+    * `.remove` removes document matching `conditions`
+    * `.distinct` finds distinct values of `field` for document matching `conditions`
+    * `.where` creates query your model
+    * `.$where` to query Javascript expression e.g `User.&where('this.firstname === this.lastname').exec(callback)`
+    * `.update` to update all documents matching conditions
+* `mongoose.connect` is used to connect your app to only **one** database while `mongoose.createConnection` is used to create additional connections
+
+## Wednesday August 2nd, 2017
+* An Introduction to React: 
+     * React is a descriptive, efficient and flexible Javascript library for building user interfaces. it writes app as components.
+    `React.component` class takes in parameters called `props` and returns views to display via the `render` method 
+    * Components are class and functions. Class maintains **state** but function cannot.
+    * State management in react is done at the component level i.e a way to store data 
+    * Every React component has a `render()` and must `return` something
+    * `.props` is used to pass data from parents component to child element
+    * `setState` can be called with a function or an object
+    * When mapping an array it is important to give a unique key to the items
+    * Reacts observe and update state when anything changes
+
+* Built an interactive tic-tac-toe game in class
+    * The tic-tac-toe comprises of three components: (a) Square (b) Board (c) Game. The Square component renders a single `<button>`, the Board renders 9 squares, and the Game component renders a board with some placeholders.
