@@ -219,3 +219,24 @@ Did a recap of the forum app with the team in class
 
 * Built an interactive tic-tac-toe game in class
     * The tic-tac-toe comprises of three components: (a) Square (b) Board (c) Game. The Square component renders a single `<button>`, the Board renders 9 squares, and the Game component renders a board with some placeholders.
+
+## Thursday August 3rd, 2017
+* Added game history to the tic-tac-toe game Component
+
+## Friday August 4th, 2017
+* Saw a video on React
+* Did a simple React Form according to the React Tutorial video
+
+## Saturday August 5th, 2017
+* Attended the FreeCodeCamp Meet-up @ ICTHub Lugbe
+* Solved some challenges on freecodecaamp
+    * Learnt how to use `Array.sort`
+
+## Sunday August 6th, 2017
+* Rested today
+
+## Monday August 7th, 2017
+* Did some Array iterator (`.push`, `.pop`, `.unshift`)in class with the team 
+* Solved some challenges on Codewars.
+
+## Tuesday August 8th, 2017
