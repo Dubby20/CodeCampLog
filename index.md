@@ -240,3 +240,22 @@ Did a recap of the forum app with the team in class
 * Solved some challenges on Codewars.
 
 ## Tuesday August 8th, 2017
+* Solved some Basic Algorithm Challenges on freeCodeCamp
+    * Reverse a string using `.split()`, `.reverse()` and `.join`
+    * To factorize a number using `recursion`
+    * To check for palindrome in a given string using `regular expression` to ignore punctuation and spacing, `toLowerCase` to ignore case.
+    
+   
+## Wednesday August 9th, 2017
+* Basic Algorithm Scripting Challenge
+    * To find the longest word in a string using `for loop`
+    * To capitalize the first letter in every word using `toLowerCase()`, `.split()`, `.toUpperCase()`, `.splice()` and `.join()`
+    * To return the largest number in an array using `.reduce()` and `.push()`
+
+## Thursday August 10th, 2017
+* freeCodeCamp Challenges
+    * To confirm if a string ends with the given target string  using `str.substr()`
+    * To repeat a string using `for loop` and `str.repeat()`
+* Started reading the Book titled **"You Don't Know JS"**
+    
+## Friday August 11th, 2017
