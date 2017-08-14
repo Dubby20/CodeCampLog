@@ -259,3 +259,32 @@ Did a recap of the forum app with the team in class
 * Started reading the Book titled **"You Don't Know JS"**
     
 ## Friday August 11th, 2017
+* On the Book: **"You Don't Know Js** -
+    * In *Number* JS Types `toFixed()` method allows you to specify how many fractional decimal places you'd like the value to be represented with.
+        * `toPrecision()` is similar but specifies how many significant digits should be used to represent the value.
+        * The output is a string representation of number.
+        * `Number.isInteger()` is used to test for integers
+        * `Number.isSafeInteger()` is used to test if a value is a safe integer
+        * `Number.isNaN()` to test if `NaN` is a number
+    * `Object.is()` is used to test two values for absolute equality.
+* Had a seminar @StoneBricks on the topic *Entrepreneurship*. Key Points:
+    * Determinants 
+    * Benefits: Be clear on the benefit your product provides. Your product should have real values.
+    * Target Market: Know your customers.
+    * Competiton: What makes you have an edge over your Competitors?
+        * Cost leadership means you provide reasonable value at a lower price.
+        * Differentiation literally means Innovation. This means you meet the same needs in a new way.
+        * Focus means you understand and service you target market better than anyone else.
+**Food for thought:** What is my Unique Selling Proposition (USP)? To be successful, you need to be able to articulate the benefit you provide to your target market.
+
+
+## Saturday August 12th, 2017
+* Attended a meet-up @Harmony Hub Innovation Gwarinpa
+    * Built a calculator app using **Thunkable**
+* Attended a meet-up @Avion Hub Wuse II
+    * Learnt about *Progressive Web App*
+    * CSS Primer, Types of Layout Systems and CSS Positioning.
+
+## Sunday August 13th, 2017
+* Carefully studied **HTML** and **CSS** on W3Schools
+    * Worked on my Porfolio Website
