@@ -26,7 +26,7 @@
 * Used html to create form using javascript to get the values of the form with input type :name and birthday
 * How to use `e.preventDefault` method to stop the default form action
 * How to attach `.addEventlistener` to a specific function
-* learnt how to link jquery google cdn.
+* Learnt how to link jquery google cdn.
 
 ## Tuesday July 4th, 2017
 * Completed some of the Basic Javascript Challenges on FreeCodeCamp
@@ -275,7 +275,7 @@ Did a recap of the forum app with the team in class
         * Cost leadership means you provide reasonable value at a lower price.
         * Differentiation literally means Innovation. This means you meet the same needs in a new way.
         * Focus means you understand and service you target market better than anyone else.
-**Food for thought:** What is my Unique Selling Proposition (USP)? To be successful, you need to be able to articulate the benefit you provide to your target market.
+* **Food for thought:** What is my Unique Selling Proposition (USP)? To be successful, you need to be able to articulate the benefit you provide to your target market.
 
 
 ## Saturday August 12th, 2017
@@ -288,3 +288,15 @@ Did a recap of the forum app with the team in class
 ## Sunday August 13th, 2017
 * Carefully studied **HTML** and **CSS** on W3Schools
     * Worked on my Porfolio Website
+
+## Monday August 14th, 2017
+* Started our *CodeFest* 
+* Had our 1st Official Meeting with Mr Oriyomi and our instructor Ebuka
+    * We discussed about our project ideas and everyone suggested one or two projects
+    * Looked at some CSS properties and values on **CSS Tricks**
+
+## Tuesday August 15th, 2017
+* Started working on a Laundry Management System project titled **LaundryExpress**
+* Created a trello board for our project
+* Team members gave their suggestion on how to achieve this project
+* A time lag was created for the project to be completed
